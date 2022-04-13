@@ -1,8 +1,8 @@
-### Hi there 👋, Amine Jouha
+### Amine Jouha
 #### Mobile/Web Developer
 ![Mobile/Web Developer](https://pbs.twimg.com/profile_banners/948324121796112384/1591224904/600x200)
 
-I'm Amine Jouha, Web/Mobile developer. I have rich experience in Mobile Application (Flutter) and web sites (WordPress), also I am good at Design.
+I'm Amine Jouha, Web/Mobile developer. I'm an enthusiast of mobile development. Always looking to be the best at what I do. I have rich experience in (Flutter) and (WordPress), also I am good at Design.
 
 Skills: DART / REACT / DJANGO / VUE / HTML / CSS
 
