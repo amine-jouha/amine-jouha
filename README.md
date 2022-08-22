@@ -1,10 +1,10 @@
 Hi 👋 My name is Amine
 ======================
 
-Web/Mobile Developer
+Mobile Developer
 --------------------
 
-I'm Amine Jouha, Web/Mobile developer. I'm an enthusiast of mobile development. Always looking to be the best at what I do. I have rich experience in (Flutter) and (WordPress), also I am good at Design.
+I'm Amine Jouha, Mobile developer. I'm an enthusiast of mobile development. Always looking to be the best at what I do. I have rich experience in Flutter, also I am good at Design.
 
 * 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [jouham.com](http://jouham.com)
